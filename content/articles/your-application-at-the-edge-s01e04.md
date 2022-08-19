@@ -11,6 +11,10 @@ ShowCodeCopyButtons: true
 ShowBreadCrumbs: true
 tags: ["tech", "[s01e04]", "akamai", "cdn","luna control centre", "monitor", "traffic", "traffic reports", "webpagetest", "your application at the edge"]
 categories: ["Tech", "Your Application At The Edge"]
+cover:
+    image: "/img/ate3.png"
+    responsiveImages: true
+    hidden: true
 ---
 
 # Intro

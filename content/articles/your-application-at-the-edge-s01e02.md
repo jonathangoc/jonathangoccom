@@ -11,6 +11,10 @@ ShowCodeCopyButtons: true
 ShowBreadCrumbs: true
 tags: ["tech", "[s01e02]", "akamai", "cdn", "filezilla", "freecss", "netstorage", "ssh keys", "upload account", "your application at the edge"]
 categories: ["Tech", "Your Application At The Edge"]
+cover:
+    image: "/img/ate1.png"
+    responsiveImages: true
+    hidden: true
 ---
 
 # Intro

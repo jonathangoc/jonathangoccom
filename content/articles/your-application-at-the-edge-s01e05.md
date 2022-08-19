@@ -11,6 +11,10 @@ ShowCodeCopyButtons: true
 ShowBreadCrumbs: true
 tags: ["tech", "[s01e05]", "akamai", "cdn", "api", "datastream api", "datastream pull api", "sumo logic", "your application at the edge"]
 categories: ["Tech", "Your Application At The Edge"]
+cover:
+    image: "/img/ate4.png"
+    responsiveImages: true
+    hidden: true
 ---
 
 # Intro

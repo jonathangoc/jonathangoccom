@@ -11,6 +11,10 @@ ShowCodeCopyButtons: true
 ShowBreadCrumbs: true
 tags: ["tech", "[s01e03]", "akamai", "cdn","change host file", "gas mask", "ion", "onboarding", "testing in staging", "web performance", "your application at the edge"]
 categories: ["Tech", "Your Application At The Edge"]
+cover:
+    image: "/img/ate2.png"
+    responsiveImages: true
+    hidden: true
 ---
 
 # Intro

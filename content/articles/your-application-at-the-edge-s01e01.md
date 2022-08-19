@@ -11,6 +11,10 @@ ShowCodeCopyButtons: false
 ShowBreadCrumbs: true
 tags: ["tech", "[s01e01]", "akamai", "brackets", "cdn", "filezilla", "freecss", "netstorage", "your application at the edge"]
 categories: ["Tech", "Your Application At The Edge"]
+cover:
+    image: "/img/ate0.png"
+    responsiveImages: true
+    hidden: true
 ---
 
 # Intro
