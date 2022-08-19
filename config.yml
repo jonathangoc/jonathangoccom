@@ -1,0 +1,65 @@
+baseURL: ""
+languageCode: en-us
+theme: PaperMod
+title: " "
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  #env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  defaultTheme: light # setting the theme to ligh
+  disableThemeToggle: true
+  label:
+    icon: "/img/logo.svg"
+  profileMode:
+        enabled: true
+        title: "Jonathan Carvalho" # optional default will be site title
+        subtitle: "Application Security Advisor | Sales Engineer | Mentor"
+        imageUrl: "/img/profile2.jpg" # optional
+        #imageTitle: "<title of image as alt>" # optional
+        #imageWidth: 150 # custom size
+        #imageHeight: 150 # custom size
+        buttons:
+            - name: Articles
+              url: "/articles/"
+            - name: CV
+              url: "/cv"
+            - name: Blog Archive
+              url: "/archive/"
+  ShowShareButtons: true #show share button of posts
+  #ShareButtons: ["linkedin", "twitter", "reddit", "facebook"]
+  #ShowReadingTime: true #Displays Reading Time (the estimated time, in minutes, it takes to read the content.)
+  #ShowToc: true #Show Table of Contents (Toc) on blog post
+  #ShowCodeCopyButtons: true #Adds a copy button in code block to copy the code it contains
+  #ShowAllPagesInArchive: true
+  assets:
+    favicon: "/img/favicon.ico"
+    favicon16x16:  "/img/favicon-16x-16.png"
+    favicon32x32:  "/img/favicon-32x32.png"
+    apple_touch_icon:  "/img/apple-touch-icon.png"
+
+  socialIcons: # optional
+    - name: "Medium"
+      url: "https://medium.com/@jonathangabriel"
+    - name: "Github"
+      url: "https://github.com/jonathangoc"
+    - name: "Twitter"
+      url: "https://twitter.com/jonathangoc"
+    - name: "Linkedin"
+      url: "https://www.linkedin.com/in/jonathangoc/"
+    - name: "Instagram"
+      url: "https://www.instagram.com/jonathangoc/"
+    - name: "Strava"
+      url: "https://www.strava.com/athletes/36605954"
+
+pages:
+    GroupByPublishDate: true
+
+
