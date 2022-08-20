@@ -1,5 +1,5 @@
 ---
-title: "Blog Arquive"
+title: "Blog Archive"
 url: "/archive/"
 ShowAllPagesInArchive: true
 layout: archives
