@@ -8,12 +8,25 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
+analytics:
+  google:
+    SiteVerificationTag: "G-FGMRDHDQZJ"
+
 minify:
   disableXML: true
   minifyOutput: true
 
+#menu
+menu:
+  main:
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 10
+
+#site parameters
 params:
-  #env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
   defaultTheme: light # setting the theme to ligh
   disableThemeToggle: true
   label:
@@ -58,8 +71,23 @@ params:
       url: "https://www.instagram.com/jonathangoc/"
     - name: "Strava"
       url: "https://www.strava.com/athletes/36605954"
+  fuseOpts:
+        isCaseSensitive: false
+        shouldSort: true
+        location: 0
+        distance: 1000
+        threshold: 0.4
+        minMatchCharLength: 0
+        keys: ["title", "permalink", "summary", "content"]
 
 pages:
     GroupByPublishDate: true
+
+#configuring search
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
 
 
