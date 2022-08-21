@@ -8,10 +8,6 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-analytics:
-  google:
-    SiteVerificationTag: "G-FGMRDHDQZJ"
-
 minify:
   disableXML: true
   minifyOutput: true
@@ -27,6 +23,9 @@ menu:
 #site parameters
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  analytics:
+    google:
+      SiteVerificationTag: "G-FGMRDHDQZJ"
   defaultTheme: light # setting the theme to ligh
   disableThemeToggle: true
   label:

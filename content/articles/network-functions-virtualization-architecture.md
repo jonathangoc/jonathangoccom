@@ -15,39 +15,13 @@ cover:
     hidden: true
 tags: ["tech", "novabase", "etsi", "virtualisation", "Network Functions Virtualization", "nfv"]
 categories: ["Tech", "NFV"]
+UseHugoToc: true
+showToc: true
+TocOpen: true
 ---
 
-# Índice
-1. [Âmbito](#1.0)
-2. [Sumário Executivo](#2.0)
-    1. [Estrutura do Documento](#2.1)
-    2. [Objetivos da virtualização de funções de rede (NFV)](#2.2)
-    3. [Descrição da abordagem do ETSI](#2.3)
-3. [Framework NFV](#3.0)
-    1. [Introdução](#3.1)
-    2. [Descrição de alto nível da framework NFV](#3.2)
-4. [Serviços de Rede No Contexto NFV](#4.0)
-    1. [Virtualização dos Blocos Funcionais]((#4.1))
-    2. [Implicações no NFV](#4.2)
-5. [Arquitetura Detalhada Da Framework NFV](#5.0)
-    1. [Introdução](#5.1)
-    2. [Visão Geral dos Blocos Funcionais da Arquitetura NFV](#5.2)
-    3. [Virtualised Network Function (VNF)](#5.3)
-    4. [Element Managament (EM)](#5.4)
-    5. [NFV Infrastructure](#5.4)
-    6. [Virtualised Infrastructure Manager(s)](#5.6)
-    7. [NFV Orchestrator](#5.7)
-    8. [VNF Manager(s)](#5.8)
-    9. [Service, VNF and Infrastructure Description](#5.9)
-    10. [Operations and Business Support Systems (OSS/BSS)](#5.10)
-    11. [Interfaces de Referência](#5.11)
-6. [Conclusão e Trabalho Futuro](#6.0)
-    1. [Conclusão](#6.1)
-    2. [Trabalho Futuro](#6.2)
-7. [Bibliografia](#7.0)
-
-
-## 1. Âmbito <a id="1.0"></a>
+> ***⚠ This article is written in Portuguese. If you would like to get access to the English version please contact me directly.***
+## 1. Âmbito
 
 O presente documento introduz a arquitetura conceptual de alto nível da virtualização de funções de rede (NFV) definida pelo European Telecommunications Standards Institute (ETSI) no Group Specification NFV 002 v1.2.1. Adicionalmente, descreve a infraestrutura, blocos funcionais e interfaces, assim como a ligação e suporte desta arquitetura.
 
@@ -55,9 +29,8 @@ Através deste documento, pretende-se mostrar ao leitor os fundamentos do NFV.
 
 Pela sua própria essência este estudo é orientado para a rede dos operadores de telecomunicações.
 
-## 2. Sumário Executivo <a id="2.0"></a>
-
-### 2.1. Estrutura do Documento <a id="2.1"></a>
+## 2. Sumário Executivo
+### 2.1. Estrutura do Documento
 
 O presente documento está estruturado da seguinte forma:
 
