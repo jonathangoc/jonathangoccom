@@ -4,4 +4,5 @@ layout: "search" # is necessary
 summary: "search"
 placeholder: "Search"
 url: "/search/"
+disableShare: true
 ---

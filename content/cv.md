@@ -1,10 +1,7 @@
 ---
 title: "CV"
 url: "/cv/"
-ShowAllPagesInArchive: true
-layout: single
-#ShowReadingTime: false
-ShowShareButtons: false
+disableShare: true
 ---
 
 # Introduction

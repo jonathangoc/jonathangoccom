@@ -12,6 +12,8 @@ minify:
   disableXML: true
   minifyOutput: true
 
+googleAnalytics: G-FGMRDHDQZJ
+
 #menu
 menu:
   main:
@@ -19,6 +21,10 @@ menu:
       name: Search
       url: /search/
       weight: 10
+    - identifier: blog archive
+      name: Archive
+      url: /archive/
+      weight: 20
 
 #site parameters
 params:
@@ -29,7 +35,7 @@ params:
   defaultTheme: light # setting the theme to ligh
   disableThemeToggle: true
   label:
-    icon: "/img/logo.svg"
+    icon: "/img/logo3.png"
   profileMode:
         enabled: true
         title: "Jonathan Carvalho" # optional default will be site title
@@ -39,12 +45,12 @@ params:
         #imageWidth: 150 # custom size
         #imageHeight: 150 # custom size
         buttons:
+            - name: Projects
+              url: "/projects/"
             - name: Articles
               url: "/articles/"
-            - name: CV
+            - name: About Me
               url: "/cv"
-            - name: Blog Archive
-              url: "/archive/"
   ShowShareButtons: true #show share button of posts
   #ShareButtons: ["linkedin", "twitter", "reddit", "facebook"]
   #ShowReadingTime: true #Displays Reading Time (the estimated time, in minutes, it takes to read the content.)

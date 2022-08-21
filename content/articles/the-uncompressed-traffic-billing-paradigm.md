@@ -11,6 +11,10 @@ ShowCodeCopyButtons: true
 ShowBreadCrumbs: true
 tags: ["tech", "akamai", "cdn", "a2", "brotli", "zopfli", "cloudflare gateway", "compressed content", "compression", "deflate", "delivery property", "fastly", "gzip", "last mile acceleration", "lma", "origin compression", "proxy property", "resource optimizer", "traffic billing issues"]
 categories: ["Tech", "Web Performace"]
+cover:
+    image: "/img/c1.png"
+    responsiveImages: true
+    hidden: true
 ---
 
 # TL;DR
