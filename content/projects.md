@@ -11,6 +11,6 @@ The [Aveiro Cycling Club](https://aveiro.cc) is a local community of passionate 
 
 ![](/img/acc.png)
 
-## 🆕 Magic Forest 🌱
+## 🆕 Shared Forest 🌱
 ##### [August, 2022  - current] 
 More information about this project very soon.

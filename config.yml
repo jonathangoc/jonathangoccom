@@ -49,8 +49,8 @@ params:
               url: "/projects/"
             - name: Articles
               url: "/articles/"
-            - name: About Me
-              url: "/cv"
+            - name: Resume
+              url: "/resume"
   ShowShareButtons: true #show share button of posts
   #ShareButtons: ["linkedin", "twitter", "reddit", "facebook"]
   #ShowReadingTime: true #Displays Reading Time (the estimated time, in minutes, it takes to read the content.)
