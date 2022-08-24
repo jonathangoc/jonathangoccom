@@ -65,7 +65,7 @@ params:
 
   socialIcons: # optional
     - name: "Medium"
-      url: "https://medium.com/@jonathangabriel"
+      url: "https://medium.com/@jonathangoc"
     - name: "Github"
       url: "https://github.com/jonathangoc"
     - name: "Twitter"
