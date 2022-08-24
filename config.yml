@@ -50,7 +50,7 @@ params:
             - name: Articles
               url: "/articles/"
             - name: Resume
-              url: "/resume"
+              url: "/cv/"
   ShowShareButtons: true #show share button of posts
   #ShareButtons: ["linkedin", "twitter", "reddit", "facebook"]
   #ShowReadingTime: true #Displays Reading Time (the estimated time, in minutes, it takes to read the content.)
