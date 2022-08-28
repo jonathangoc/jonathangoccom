@@ -17,14 +17,18 @@ googleAnalytics: G-FGMRDHDQZJ
 #menu
 menu:
   main:
+    - identifier: meetme
+      name: Meet Me
+      url: /meetme/
+      weight: 10
     - identifier: search
       name: Search
       url: /search/
-      weight: 10
+      weight: 20
     - identifier: blog archive
       name: Archive
       url: /archive/
-      weight: 20
+      weight: 30
 
 #site parameters
 params:
