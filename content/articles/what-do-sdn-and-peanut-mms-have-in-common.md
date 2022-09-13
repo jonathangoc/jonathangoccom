@@ -3,6 +3,7 @@ title: "What do SDN and Peanut M&M’s have in common?"
 date: 2015-01-07T05:06:00+00:00
 draft: false
 layout: "single"
+Donate: true
 ShowWordCount: true
 ShowReadingTime: true
 disableShare: false

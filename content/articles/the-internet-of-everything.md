@@ -3,6 +3,7 @@ title: "The Internet of Everything"
 date: 2014-08-06T09:06:00+00:00
 draft: false
 layout: "single"
+Donate: true
 ShowWordCount: true
 ShowReadingTime: true
 disableShare: false

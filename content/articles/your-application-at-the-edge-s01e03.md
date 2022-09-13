@@ -3,6 +3,7 @@ title: "Your Application At The Edge [S01E03]"
 date: 2019-05-07T12:58:00+00:00
 draft: false
 layout: "single"
+Donate: true
 ShowWordCount: true
 ShowReadingTime: true
 disableShare: false

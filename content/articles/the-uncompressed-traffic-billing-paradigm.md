@@ -3,6 +3,7 @@ title: "The (Un)compressed Traffic Billing Paradigm"
 date: 2020-07-20T16:47:00+00:00
 draft: false
 layout: "single"
+Donate: true
 ShowWordCount: true
 ShowReadingTime: true
 disableShare: false

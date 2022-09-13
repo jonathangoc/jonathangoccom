@@ -3,6 +3,7 @@ title: "Build on Akamai | Linode"
 date: 2022-08-08T10:04:00+00:00
 draft: false
 layout: "single"
+Donate: true
 ShowWordCount: true
 ShowReadingTime: true
 disableShare: false

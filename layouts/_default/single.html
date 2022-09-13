@@ -36,6 +36,12 @@
   {{- end }}
 
   <footer class="post-footer">
+    <hr><br>
+    {{- if (.Param "Donate") }}
+    {{- partial "donate.html" . -}}
+    {{- end }}
+
+
     {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
     <ul class="post-tags">
       {{- range ($.GetTerms $tags) }}

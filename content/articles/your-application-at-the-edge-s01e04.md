@@ -3,6 +3,7 @@ title: "Your Application At The Edge [S01E04]"
 date: 2019-06-11T15:37:00+00:00
 draft: false
 layout: "single"
+Donate: true
 ShowWordCount: true
 ShowReadingTime: true
 disableShare: false
