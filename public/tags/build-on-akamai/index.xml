@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>build on akamai on  </title>
+    <link>https://www.jonathangoc.com/tags/build-on-akamai/</link>
+    <description>Recent content in build on akamai on  </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Aug 2022 10:04:00 +0000</lastBuildDate><atom:link href="https://www.jonathangoc.com/tags/build-on-akamai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Build on Akamai | Linode</title>
+      <link>https://www.jonathangoc.com/articles/i-built-this-website-using-hugo/</link>
+      <pubDate>Mon, 08 Aug 2022 10:04:00 +0000</pubDate>
+      
+      <guid>https://www.jonathangoc.com/articles/i-built-this-website-using-hugo/</guid>
+      <description>TL;DR This short article explains why I chose Hugo as developing technology to build my personal website, what Hugo is, who Hugo is for, and the details of my website.
+Why I Chose Hugo There are mainly four reasons why I used Hugo to build my personal website.
+Open-source. Hugo is an open-source technology that allows anyone to create a static site. Therefore, the code is maintained by a community of developers and other contributors which consequently will make it performant and more secure.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>datastream api on  </title>
+    <link>https://www.jonathangoc.com/tags/datastream-api/</link>
+    <description>Recent content in datastream api on  </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Aug 2019 10:14:00 +0000</lastBuildDate><atom:link href="https://www.jonathangoc.com/tags/datastream-api/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Your Application At The Edge [S01E05]</title>
+      <link>https://www.jonathangoc.com/articles/your-application-at-the-edge-s01e05/</link>
+      <pubDate>Fri, 02 Aug 2019 10:14:00 +0000</pubDate>
+      
+      <guid>https://www.jonathangoc.com/articles/your-application-at-the-edge-s01e05/</guid>
+      <description>Intro In this blog post, I will show how to configure Akamai DataStream and how to use Sumo Logic to look at raw log data and aggregated metrics provided by this product.
+What’s Hot? Have you checked the previous Your Application at the Edge [S01E04] post? It details how to use the Akamai Monitoring tool under Akamai Control Center to analyse user traffic stats and well as how to use WebPageTest to understand the website performance.</description>
+    </item>
+    
+  </channel>
+</rss>

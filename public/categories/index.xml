@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on  </title>
+    <link>https://www.jonathangoc.com/categories/</link>
+    <description>Recent content in Categories on  </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Oct 2022 17:34:00 +0000</lastBuildDate><atom:link href="https://www.jonathangoc.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Buil on Akamai</title>
+      <link>https://www.jonathangoc.com/categories/buil-on-akamai/</link>
+      <pubDate>Sun, 02 Oct 2022 17:34:00 +0000</pubDate>
+      
+      <guid>https://www.jonathangoc.com/categories/buil-on-akamai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tech</title>
+      <link>https://www.jonathangoc.com/categories/tech/</link>
+      <pubDate>Sun, 02 Oct 2022 17:34:00 +0000</pubDate>
+      
+      <guid>https://www.jonathangoc.com/categories/tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building Websites</title>
+      <link>https://www.jonathangoc.com/categories/building-websites/</link>
+      <pubDate>Mon, 08 Aug 2022 10:04:00 +0000</pubDate>
+      
+      <guid>https://www.jonathangoc.com/categories/building-websites/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open-source</title>
+      <link>https://www.jonathangoc.com/categories/open-source/</link>
+      <pubDate>Mon, 08 Aug 2022 10:04:00 +0000</pubDate>
+      
+      <guid>https://www.jonathangoc.com/categories/open-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Performace</title>
+      <link>https://www.jonathangoc.com/categories/web-performace/</link>
+      <pubDate>Mon, 20 Jul 2020 16:47:00 +0000</pubDate>
+      
+      <guid>https://www.jonathangoc.com/categories/web-performace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Your Application At The Edge</title>
+      <link>https://www.jonathangoc.com/categories/your-application-at-the-edge/</link>
+      <pubDate>Fri, 02 Aug 2019 10:14:00 +0000</pubDate>
+      
+      <guid>https://www.jonathangoc.com/categories/your-application-at-the-edge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NFV</title>
+      <link>https://www.jonathangoc.com/categories/nfv/</link>
+      <pubDate>Tue, 18 Aug 2015 16:45:00 +0000</pubDate>
+      
+      <guid>https://www.jonathangoc.com/categories/nfv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software-defined Networking</title>
+      <link>https://www.jonathangoc.com/categories/software-defined-networking/</link>
+      <pubDate>Wed, 07 Jan 2015 05:06:00 +0000</pubDate>
+      
+      <guid>https://www.jonathangoc.com/categories/software-defined-networking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IoT</title>
+      <link>https://www.jonathangoc.com/categories/iot/</link>
+      <pubDate>Wed, 06 Aug 2014 09:06:00 +0000</pubDate>
+      
+      <guid>https://www.jonathangoc.com/categories/iot/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>tech on  </title>
+    <link>https://www.jonathangoc.com/tags/tech/</link>
+    <description>Recent content in tech on  </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Oct 2022 17:34:00 +0000</lastBuildDate><atom:link href="https://www.jonathangoc.com/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I Built This Website Using Hugo</title>
+      <link>https://www.jonathangoc.com/articles/build-on-akamai-linode/</link>
+      <pubDate>Sun, 02 Oct 2022 17:34:00 +0000</pubDate>
+      
+      <guid>https://www.jonathangoc.com/articles/build-on-akamai-linode/</guid>
+      <description>For deploying a Website in the Cloud, I used Linode Cloud Computing Services. Linode provides an easy way to design, build, and deploy your own cloud strategy using the following products:
+COMPUTE – Build, release, and scale faster with virtual machines and tools for every workload.
+Figure 1: Linode Compute Services. STORAGE – Dependable, easily-accessible storage and management.
+Figure 2: Linode Storage Services. DATABASES – Simple, Reliable, and Scalable Managed Databases.</description>
+    </item>
+    
+    <item>
+      <title>Build on Akamai | Linode</title>
+      <link>https://www.jonathangoc.com/articles/i-built-this-website-using-hugo/</link>
+      <pubDate>Mon, 08 Aug 2022 10:04:00 +0000</pubDate>
+      
+      <guid>https://www.jonathangoc.com/articles/i-built-this-website-using-hugo/</guid>
+      <description>TL;DR This short article explains why I chose Hugo as developing technology to build my personal website, what Hugo is, who Hugo is for, and the details of my website.
+Why I Chose Hugo There are mainly four reasons why I used Hugo to build my personal website.
+Open-source. Hugo is an open-source technology that allows anyone to create a static site. Therefore, the code is maintained by a community of developers and other contributors which consequently will make it performant and more secure.</description>
+    </item>
+    
+    <item>
+      <title>The (Un)compressed Traffic Billing Paradigm</title>
+      <link>https://www.jonathangoc.com/articles/the-uncompressed-traffic-billing-paradigm/</link>
+      <pubDate>Mon, 20 Jul 2020 16:47:00 +0000</pubDate>
+      
+      <guid>https://www.jonathangoc.com/articles/the-uncompressed-traffic-billing-paradigm/</guid>
+      <description>TL;DR This blog post explores concerns about the costs of delivering uncompressed and compressed content on Akamai and other Content Delivery Networks, whilst providing a solution to help organizations effectively manage these costs.
+Overview Nowadays, digital businesses and organisations are looking for improving the performance of their Websites and Application aiming to provide a better experience for their end-users. One of the optimisation techniques available today is Content Compression (A.K.A. HTTP Compression).</description>
+    </item>
+    
+    <item>
+      <title>Your Application At The Edge [S01E05]</title>
+      <link>https://www.jonathangoc.com/articles/your-application-at-the-edge-s01e05/</link>
+      <pubDate>Fri, 02 Aug 2019 10:14:00 +0000</pubDate>
+      
+      <guid>https://www.jonathangoc.com/articles/your-application-at-the-edge-s01e05/</guid>
+      <description>Intro In this blog post, I will show how to configure Akamai DataStream and how to use Sumo Logic to look at raw log data and aggregated metrics provided by this product.
+What’s Hot? Have you checked the previous Your Application at the Edge [S01E04] post? It details how to use the Akamai Monitoring tool under Akamai Control Center to analyse user traffic stats and well as how to use WebPageTest to understand the website performance.</description>
+    </item>
+    
+    <item>
+      <title>Your Application At The Edge [S01E04]</title>
+      <link>https://www.jonathangoc.com/articles/your-application-at-the-edge-s01e04/</link>
+      <pubDate>Tue, 11 Jun 2019 15:37:00 +0000</pubDate>
+      
+      <guid>https://www.jonathangoc.com/articles/your-application-at-the-edge-s01e04/</guid>
+      <description>Intro In this blog, I will show you how to use the Monitoring Tools within Control Centre to analyse user traffic stats as well as how to use WebPageTest to understand the Website performance.
+What’s Hot? Have you checked the previous Your Application at the Edge [S01E03] blog post? It details how to use Ion to deliver the HTML page and other static assets to end-users by enabling the CDN features and capabilities such as caching provided by Akamai.</description>
+    </item>
+    
+    <item>
+      <title>Your Application At The Edge [S01E03]</title>
+      <link>https://www.jonathangoc.com/articles/your-application-at-the-edge-s01e03/</link>
+      <pubDate>Tue, 07 May 2019 12:58:00 +0000</pubDate>
+      
+      <guid>https://www.jonathangoc.com/articles/your-application-at-the-edge-s01e03/</guid>
+      <description>Intro This blog post will cover the details on how to deliver your Website or Application using the Akamai Edge Platform as the CDN infrastructure.
+What’s Hot? Have you checked the previous Your Application at the Edge [S01E02] blog post? It explains how you can use NS as an origin.
+Context As described in the previous post, Figure 1 shows the end-to-end architecture in which we have the origins (on the left-hand side), the Akamai Edge Platform (in the middle), and the end-users (on the right-hand side).</description>
+    </item>
+    
+    <item>
+      <title>Your Application At The Edge [S01E02]</title>
+      <link>https://www.jonathangoc.com/articles/your-application-at-the-edge-s01e02/</link>
+      <pubDate>Thu, 04 Apr 2019 13:38:00 +0000</pubDate>
+      
+      <guid>https://www.jonathangoc.com/articles/your-application-at-the-edge-s01e02/</guid>
+      <description>Intro In this blog post, I will explain how to create a NetStorage (NS) Group, how to upload content to NetStorage using FileZilla and how to create a simple Akamai Delivery Property.
+What’s Hot? Have you checked the previous Your Application at the Edge [S01E01] blog post? If you are curious about the reason why the series exist, then go and have a look at the first blog post.
+Context Before we crack on with the NS implementation I would like to give a high-level overview of the scenario.</description>
+    </item>
+    
+    <item>
+      <title>Your Application At The Edge [S01E01]</title>
+      <link>https://www.jonathangoc.com/articles/your-application-at-the-edge-s01e01/</link>
+      <pubDate>Wed, 09 Jan 2019 13:23:00 +0000</pubDate>
+      
+      <guid>https://www.jonathangoc.com/articles/your-application-at-the-edge-s01e01/</guid>
+      <description>Intro Have you ever wondered how to onboard a Website or Application into Akamai?
+How do you improve the delivery of a Website or Application using the solutions available in Akamai?
+And have you ever thought about the challenges and pain points that you might have to face when using Akamai’s solutions?
+These are the questions that have been floating in my mind for a while and I will try to address them from a technical perspective throughout the series of blog posts.</description>
+    </item>
+    
+    <item>
+      <title>Network Functions Virtualization (NFV) - Arquitetura</title>
+      <link>https://www.jonathangoc.com/articles/network-functions-virtualization-architecture/</link>
+      <pubDate>Tue, 18 Aug 2015 16:45:00 +0000</pubDate>
+      
+      <guid>https://www.jonathangoc.com/articles/network-functions-virtualization-architecture/</guid>
+      <description>⚠ This article is written in Portuguese. If you would like to get access to the English version please contact me directly.
+1. Âmbito O presente documento introduz a arquitetura conceptual de alto nível da virtualização de funções de rede (NFV) definida pelo European Telecommunications Standards Institute (ETSI) no Group Specification NFV 002 v1.2.1. Adicionalmente, descreve a infraestrutura, blocos funcionais e interfaces, assim como a ligação e suporte desta arquitetura.</description>
+    </item>
+    
+    <item>
+      <title>What do SDN and Peanut M&amp;M’s have in common?</title>
+      <link>https://www.jonathangoc.com/articles/what-do-sdn-and-peanut-mms-have-in-common/</link>
+      <pubDate>Wed, 07 Jan 2015 05:06:00 +0000</pubDate>
+      
+      <guid>https://www.jonathangoc.com/articles/what-do-sdn-and-peanut-mms-have-in-common/</guid>
+      <description>When we talk about Software-defined Networking (SDN), we see a lot of technologies and solutions going around, from virtual components to the physical world.
+Vendors are making efforts to launch SDN solutions that will ensure business continuity bringing benefits to the end customer. In fact, many of these solutions have been launched despite the technology still being substandard. After all, we are at the hype stage!
+Take a peanut M&amp;amp;M with you and taste this article about my point of view on the actual SDN flavours.</description>
+    </item>
+    
+    <item>
+      <title>The Internet of Everything</title>
+      <link>https://www.jonathangoc.com/articles/the-internet-of-everything/</link>
+      <pubDate>Wed, 06 Aug 2014 09:06:00 +0000</pubDate>
+      
+      <guid>https://www.jonathangoc.com/articles/the-internet-of-everything/</guid>
+      <description>⚠ This article is written in Portuguese. If you would like to get access to the English version please contact me directly.
+1.0. Introdução 1.1. Motivação Com o rápido avanço da tecnologia, da medicina e das comunicações, tem- se procurado soluções para combater problemas graves e existentes nas sociedades de hoje em dia. A fome, o acesso a água potável e o aparecimento de novas doenças são ainda factores reais e preocupantes.</description>
+    </item>
+    
+  </channel>
+</rss>

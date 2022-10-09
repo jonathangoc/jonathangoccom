@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>[s01e02] on  </title>
+    <link>https://www.jonathangoc.com/tags/s01e02/</link>
+    <description>Recent content in [s01e02] on  </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Apr 2019 13:38:00 +0000</lastBuildDate><atom:link href="https://www.jonathangoc.com/tags/s01e02/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Your Application At The Edge [S01E02]</title>
+      <link>https://www.jonathangoc.com/articles/your-application-at-the-edge-s01e02/</link>
+      <pubDate>Thu, 04 Apr 2019 13:38:00 +0000</pubDate>
+      
+      <guid>https://www.jonathangoc.com/articles/your-application-at-the-edge-s01e02/</guid>
+      <description>Intro In this blog post, I will explain how to create a NetStorage (NS) Group, how to upload content to NetStorage using FileZilla and how to create a simple Akamai Delivery Property.
+What’s Hot? Have you checked the previous Your Application at the Edge [S01E01] blog post? If you are curious about the reason why the series exist, then go and have a look at the first blog post.
+Context Before we crack on with the NS implementation I would like to give a high-level overview of the scenario.</description>
+    </item>
+    
+  </channel>
+</rss>

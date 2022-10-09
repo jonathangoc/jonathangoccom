@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>website on  </title>
+    <link>https://www.jonathangoc.com/tags/website/</link>
+    <description>Recent content in website on  </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Oct 2022 17:34:00 +0000</lastBuildDate><atom:link href="https://www.jonathangoc.com/tags/website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I Built This Website Using Hugo</title>
+      <link>https://www.jonathangoc.com/articles/build-on-akamai-linode/</link>
+      <pubDate>Sun, 02 Oct 2022 17:34:00 +0000</pubDate>
+      
+      <guid>https://www.jonathangoc.com/articles/build-on-akamai-linode/</guid>
+      <description>For deploying a Website in the Cloud, I used Linode Cloud Computing Services. Linode provides an easy way to design, build, and deploy your own cloud strategy using the following products:
+COMPUTE – Build, release, and scale faster with virtual machines and tools for every workload.
+Figure 1: Linode Compute Services. STORAGE – Dependable, easily-accessible storage and management.
+Figure 2: Linode Storage Services. DATABASES – Simple, Reliable, and Scalable Managed Databases.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -14,8 +14,8 @@ cover:
     image: "/img/linode-logo-png-transparent.png"
     responsiveImages: true
     hidden: true
-tags: ["tech", "akamai", "linode", "cdn", "build on akamai", "cloud compute", "compute", "databases", "dns", "godaddy", "networking", "storage", "wordpress"]
-categories: ["Tech", "Buil on Akamai"]
+tags: ["tech", "akamai", "linode", "cloud compute", "cdn", "build on akamai", "compute", "databases", "dns", "godaddy", "networking", "storage", "wordpress"]
+categories: ["Tech", "Build on Akamai"]
 ---
 
 For deploying a Website in the Cloud, I used Linode Cloud Computing Services. Linode provides an easy way to design, build, and deploy your own cloud strategy using the following products:

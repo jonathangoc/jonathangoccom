@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>NFV on  </title>
+    <link>https://www.jonathangoc.com/categories/nfv/</link>
+    <description>Recent content in NFV on  </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Aug 2015 16:45:00 +0000</lastBuildDate><atom:link href="https://www.jonathangoc.com/categories/nfv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Network Functions Virtualization (NFV) - Arquitetura</title>
+      <link>https://www.jonathangoc.com/articles/network-functions-virtualization-architecture/</link>
+      <pubDate>Tue, 18 Aug 2015 16:45:00 +0000</pubDate>
+      
+      <guid>https://www.jonathangoc.com/articles/network-functions-virtualization-architecture/</guid>
+      <description>⚠ This article is written in Portuguese. If you would like to get access to the English version please contact me directly.
+1. Âmbito O presente documento introduz a arquitetura conceptual de alto nível da virtualização de funções de rede (NFV) definida pelo European Telecommunications Standards Institute (ETSI) no Group Specification NFV 002 v1.2.1. Adicionalmente, descreve a infraestrutura, blocos funcionais e interfaces, assim como a ligação e suporte desta arquitetura.</description>
+    </item>
+    
+  </channel>
+</rss>

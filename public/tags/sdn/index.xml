@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>sdn on  </title>
+    <link>https://www.jonathangoc.com/tags/sdn/</link>
+    <description>Recent content in sdn on  </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Jan 2015 05:06:00 +0000</lastBuildDate><atom:link href="https://www.jonathangoc.com/tags/sdn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What do SDN and Peanut M&amp;M’s have in common?</title>
+      <link>https://www.jonathangoc.com/articles/what-do-sdn-and-peanut-mms-have-in-common/</link>
+      <pubDate>Wed, 07 Jan 2015 05:06:00 +0000</pubDate>
+      
+      <guid>https://www.jonathangoc.com/articles/what-do-sdn-and-peanut-mms-have-in-common/</guid>
+      <description>When we talk about Software-defined Networking (SDN), we see a lot of technologies and solutions going around, from virtual components to the physical world.
+Vendors are making efforts to launch SDN solutions that will ensure business continuity bringing benefits to the end customer. In fact, many of these solutions have been launched despite the technology still being substandard. After all, we are at the hype stage!
+Take a peanut M&amp;amp;M with you and taste this article about my point of view on the actual SDN flavours.</description>
+    </item>
+    
+  </channel>
+</rss>

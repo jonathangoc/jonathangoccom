@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>freecss on  </title>
+    <link>https://www.jonathangoc.com/tags/freecss/</link>
+    <description>Recent content in freecss on  </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Apr 2019 13:38:00 +0000</lastBuildDate><atom:link href="https://www.jonathangoc.com/tags/freecss/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Your Application At The Edge [S01E02]</title>
+      <link>https://www.jonathangoc.com/articles/your-application-at-the-edge-s01e02/</link>
+      <pubDate>Thu, 04 Apr 2019 13:38:00 +0000</pubDate>
+      
+      <guid>https://www.jonathangoc.com/articles/your-application-at-the-edge-s01e02/</guid>
+      <description>Intro In this blog post, I will explain how to create a NetStorage (NS) Group, how to upload content to NetStorage using FileZilla and how to create a simple Akamai Delivery Property.
+What’s Hot? Have you checked the previous Your Application at the Edge [S01E01] blog post? If you are curious about the reason why the series exist, then go and have a look at the first blog post.
+Context Before we crack on with the NS implementation I would like to give a high-level overview of the scenario.</description>
+    </item>
+    
+    <item>
+      <title>Your Application At The Edge [S01E01]</title>
+      <link>https://www.jonathangoc.com/articles/your-application-at-the-edge-s01e01/</link>
+      <pubDate>Wed, 09 Jan 2019 13:23:00 +0000</pubDate>
+      
+      <guid>https://www.jonathangoc.com/articles/your-application-at-the-edge-s01e01/</guid>
+      <description>Intro Have you ever wondered how to onboard a Website or Application into Akamai?
+How do you improve the delivery of a Website or Application using the solutions available in Akamai?
+And have you ever thought about the challenges and pain points that you might have to face when using Akamai’s solutions?
+These are the questions that have been floating in my mind for a while and I will try to address them from a technical perspective throughout the series of blog posts.</description>
+    </item>
+    
+  </channel>
+</rss>

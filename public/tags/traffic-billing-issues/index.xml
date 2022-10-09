@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>traffic billing issues on  </title>
+    <link>https://www.jonathangoc.com/tags/traffic-billing-issues/</link>
+    <description>Recent content in traffic billing issues on  </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Jul 2020 16:47:00 +0000</lastBuildDate><atom:link href="https://www.jonathangoc.com/tags/traffic-billing-issues/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The (Un)compressed Traffic Billing Paradigm</title>
+      <link>https://www.jonathangoc.com/articles/the-uncompressed-traffic-billing-paradigm/</link>
+      <pubDate>Mon, 20 Jul 2020 16:47:00 +0000</pubDate>
+      
+      <guid>https://www.jonathangoc.com/articles/the-uncompressed-traffic-billing-paradigm/</guid>
+      <description>TL;DR This blog post explores concerns about the costs of delivering uncompressed and compressed content on Akamai and other Content Delivery Networks, whilst providing a solution to help organizations effectively manage these costs.
+Overview Nowadays, digital businesses and organisations are looking for improving the performance of their Websites and Application aiming to provide a better experience for their end-users. One of the optimisation techniques available today is Content Compression (A.K.A. HTTP Compression).</description>
+    </item>
+    
+  </channel>
+</rss>

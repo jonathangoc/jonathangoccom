@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>gas mask on  </title>
+    <link>https://www.jonathangoc.com/tags/gas-mask/</link>
+    <description>Recent content in gas mask on  </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 May 2019 12:58:00 +0000</lastBuildDate><atom:link href="https://www.jonathangoc.com/tags/gas-mask/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Your Application At The Edge [S01E03]</title>
+      <link>https://www.jonathangoc.com/articles/your-application-at-the-edge-s01e03/</link>
+      <pubDate>Tue, 07 May 2019 12:58:00 +0000</pubDate>
+      
+      <guid>https://www.jonathangoc.com/articles/your-application-at-the-edge-s01e03/</guid>
+      <description>Intro This blog post will cover the details on how to deliver your Website or Application using the Akamai Edge Platform as the CDN infrastructure.
+What’s Hot? Have you checked the previous Your Application at the Edge [S01E02] blog post? It explains how you can use NS as an origin.
+Context As described in the previous post, Figure 1 shows the end-to-end architecture in which we have the origins (on the left-hand side), the Akamai Edge Platform (in the middle), and the end-users (on the right-hand side).</description>
+    </item>
+    
+  </channel>
+</rss>
