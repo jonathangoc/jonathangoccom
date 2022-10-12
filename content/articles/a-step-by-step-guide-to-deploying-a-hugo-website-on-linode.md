@@ -1,7 +1,7 @@
 ---
 title: "A Step-by-step Guide: How To Deploy a Hugo Website on Linode"
 date: 2022-10-11T09:56:00+00:00
-draft: true
+draft: false
 layout: "single"
 Donate: true
 ShowWordCount: true
