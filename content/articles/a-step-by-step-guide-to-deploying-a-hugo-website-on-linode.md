@@ -346,9 +346,9 @@ cd ~/akamai-hugo-linode-website/public
 cp -r . /var/www/html/linode.jonathangoc.com/public_html/
 ```
 
-- Finally, if you go to the browser and type the domain of your website (in my case: linode.jonathangoc.com) you will be able to fetch the website's content. The website would like the one below.
+- Finally, if you go to the browser and type the domain of your website (in my case: linode.jonathangoc.com) you will be able to fetch the website's content. The website would like the one below:
 
-{{< hp1 "https://linode.jonathangoc.com" >}}
+http://linode.jonathangoc.com
 
 And.. _voilà!_ Off you go!
 
