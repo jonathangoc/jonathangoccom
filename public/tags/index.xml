@@ -6,121 +6,94 @@
     <description>Recent content in Tags on  </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Oct 2022 17:34:00 +0000</lastBuildDate><atom:link href="https://www.jonathangoc.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Oct 2022 09:56:00 +0000</lastBuildDate><atom:link href="https://www.jonathangoc.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>akamai</title>
-      <link>https://www.jonathangoc.com/tags/akamai/</link>
-      <pubDate>Sun, 02 Oct 2022 17:34:00 +0000</pubDate>
+      <title>hosting</title>
+      <link>https://www.jonathangoc.com/tags/hosting/</link>
+      <pubDate>Tue, 11 Oct 2022 09:56:00 +0000</pubDate>
       
-      <guid>https://www.jonathangoc.com/tags/akamai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>databases</title>
-      <link>https://www.jonathangoc.com/tags/databases/</link>
-      <pubDate>Sun, 02 Oct 2022 17:34:00 +0000</pubDate>
-      
-      <guid>https://www.jonathangoc.com/tags/databases/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>dns</title>
-      <link>https://www.jonathangoc.com/tags/dns/</link>
-      <pubDate>Sun, 02 Oct 2022 17:34:00 +0000</pubDate>
-      
-      <guid>https://www.jonathangoc.com/tags/dns/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>godaddy</title>
-      <link>https://www.jonathangoc.com/tags/godaddy/</link>
-      <pubDate>Sun, 02 Oct 2022 17:34:00 +0000</pubDate>
-      
-      <guid>https://www.jonathangoc.com/tags/godaddy/</guid>
+      <guid>https://www.jonathangoc.com/tags/hosting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
       <link>https://www.jonathangoc.com/tags/hugo/</link>
-      <pubDate>Sun, 02 Oct 2022 17:34:00 +0000</pubDate>
+      <pubDate>Tue, 11 Oct 2022 09:56:00 +0000</pubDate>
       
       <guid>https://www.jonathangoc.com/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>netlify</title>
-      <link>https://www.jonathangoc.com/tags/netlify/</link>
-      <pubDate>Sun, 02 Oct 2022 17:34:00 +0000</pubDate>
+      <title>linode</title>
+      <link>https://www.jonathangoc.com/tags/linode/</link>
+      <pubDate>Tue, 11 Oct 2022 09:56:00 +0000</pubDate>
       
-      <guid>https://www.jonathangoc.com/tags/netlify/</guid>
+      <guid>https://www.jonathangoc.com/tags/linode/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>networking</title>
-      <link>https://www.jonathangoc.com/tags/networking/</link>
-      <pubDate>Sun, 02 Oct 2022 17:34:00 +0000</pubDate>
-      
-      <guid>https://www.jonathangoc.com/tags/networking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>open-source</title>
+      <title>open source</title>
       <link>https://www.jonathangoc.com/tags/open-source/</link>
-      <pubDate>Sun, 02 Oct 2022 17:34:00 +0000</pubDate>
+      <pubDate>Tue, 11 Oct 2022 09:56:00 +0000</pubDate>
       
       <guid>https://www.jonathangoc.com/tags/open-source/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>storage</title>
-      <link>https://www.jonathangoc.com/tags/storage/</link>
-      <pubDate>Sun, 02 Oct 2022 17:34:00 +0000</pubDate>
+      <title>static page</title>
+      <link>https://www.jonathangoc.com/tags/static-page/</link>
+      <pubDate>Tue, 11 Oct 2022 09:56:00 +0000</pubDate>
       
-      <guid>https://www.jonathangoc.com/tags/storage/</guid>
+      <guid>https://www.jonathangoc.com/tags/static-page/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tech</title>
       <link>https://www.jonathangoc.com/tags/tech/</link>
-      <pubDate>Sun, 02 Oct 2022 17:34:00 +0000</pubDate>
+      <pubDate>Tue, 11 Oct 2022 09:56:00 +0000</pubDate>
       
       <guid>https://www.jonathangoc.com/tags/tech/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>webpage</title>
-      <link>https://www.jonathangoc.com/tags/webpage/</link>
-      <pubDate>Sun, 02 Oct 2022 17:34:00 +0000</pubDate>
+      <title>templates</title>
+      <link>https://www.jonathangoc.com/tags/templates/</link>
+      <pubDate>Tue, 11 Oct 2022 09:56:00 +0000</pubDate>
       
-      <guid>https://www.jonathangoc.com/tags/webpage/</guid>
+      <guid>https://www.jonathangoc.com/tags/templates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>themes</title>
+      <link>https://www.jonathangoc.com/tags/themes/</link>
+      <pubDate>Tue, 11 Oct 2022 09:56:00 +0000</pubDate>
+      
+      <guid>https://www.jonathangoc.com/tags/themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>website</title>
       <link>https://www.jonathangoc.com/tags/website/</link>
-      <pubDate>Sun, 02 Oct 2022 17:34:00 +0000</pubDate>
+      <pubDate>Tue, 11 Oct 2022 09:56:00 +0000</pubDate>
       
       <guid>https://www.jonathangoc.com/tags/website/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>wordpress</title>
-      <link>https://www.jonathangoc.com/tags/wordpress/</link>
-      <pubDate>Sun, 02 Oct 2022 17:34:00 +0000</pubDate>
+      <title>akamai</title>
+      <link>https://www.jonathangoc.com/tags/akamai/</link>
+      <pubDate>Mon, 08 Aug 2022 10:04:00 +0000</pubDate>
       
-      <guid>https://www.jonathangoc.com/tags/wordpress/</guid>
+      <guid>https://www.jonathangoc.com/tags/akamai/</guid>
       <description></description>
     </item>
     
@@ -161,11 +134,56 @@
     </item>
     
     <item>
-      <title>linode</title>
-      <link>https://www.jonathangoc.com/tags/linode/</link>
+      <title>databases</title>
+      <link>https://www.jonathangoc.com/tags/databases/</link>
       <pubDate>Mon, 08 Aug 2022 10:04:00 +0000</pubDate>
       
-      <guid>https://www.jonathangoc.com/tags/linode/</guid>
+      <guid>https://www.jonathangoc.com/tags/databases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dns</title>
+      <link>https://www.jonathangoc.com/tags/dns/</link>
+      <pubDate>Mon, 08 Aug 2022 10:04:00 +0000</pubDate>
+      
+      <guid>https://www.jonathangoc.com/tags/dns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>godaddy</title>
+      <link>https://www.jonathangoc.com/tags/godaddy/</link>
+      <pubDate>Mon, 08 Aug 2022 10:04:00 +0000</pubDate>
+      
+      <guid>https://www.jonathangoc.com/tags/godaddy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>networking</title>
+      <link>https://www.jonathangoc.com/tags/networking/</link>
+      <pubDate>Mon, 08 Aug 2022 10:04:00 +0000</pubDate>
+      
+      <guid>https://www.jonathangoc.com/tags/networking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>storage</title>
+      <link>https://www.jonathangoc.com/tags/storage/</link>
+      <pubDate>Mon, 08 Aug 2022 10:04:00 +0000</pubDate>
+      
+      <guid>https://www.jonathangoc.com/tags/storage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wordpress</title>
+      <link>https://www.jonathangoc.com/tags/wordpress/</link>
+      <pubDate>Mon, 08 Aug 2022 10:04:00 +0000</pubDate>
+      
+      <guid>https://www.jonathangoc.com/tags/wordpress/</guid>
       <description></description>
     </item>
     

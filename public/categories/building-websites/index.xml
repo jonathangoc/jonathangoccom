@@ -6,16 +6,27 @@
     <description>Recent content in Building Websites on  </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Aug 2022 10:04:00 +0000</lastBuildDate><atom:link href="https://www.jonathangoc.com/categories/building-websites/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Oct 2022 09:56:00 +0000</lastBuildDate><atom:link href="https://www.jonathangoc.com/categories/building-websites/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Build on Akamai | Linode</title>
+      <title>A Step-by-step Guide: How To Deploy a Hugo Website on Linode</title>
+      <link>https://www.jonathangoc.com/articles/a-step-by-step-guide-to-deploying-a-hugo-website-on-linode/</link>
+      <pubDate>Tue, 11 Oct 2022 09:56:00 +0000</pubDate>
+      
+      <guid>https://www.jonathangoc.com/articles/a-step-by-step-guide-to-deploying-a-hugo-website-on-linode/</guid>
+      <description>TL;DR Because Hugo renders static websites, you can host your new Hugo website virtually anywhere. This article describes the process of hosting and deploying a Hugo website on Linode - Akamai’s Cloud Computing Platform.
+Step-by-step Guide This guide has 3 main sections:
+How to spin up a Linode instance. How to point a Domain to the Linode instance. How to install and use Hugo to build a website. How To Spin Up A Linode Instance.</description>
+    </item>
+    
+    <item>
+      <title>I Built This Website Using Hugo</title>
       <link>https://www.jonathangoc.com/articles/i-built-this-website-using-hugo/</link>
-      <pubDate>Mon, 08 Aug 2022 10:04:00 +0000</pubDate>
+      <pubDate>Sun, 09 Oct 2022 17:34:00 +0000</pubDate>
       
       <guid>https://www.jonathangoc.com/articles/i-built-this-website-using-hugo/</guid>
-      <description>TL;DR This short article explains why I chose Hugo as developing technology to build my personal website, what Hugo is, who Hugo is for, and the details of my website.
+      <description>TL;DR This short article explains why I chose Hugo as the framework to build my personal website, what Hugo is, who Hugo is for, and the details of my website.
 Why I Chose Hugo There are mainly four reasons why I used Hugo to build my personal website.
-Open-source. Hugo is an open-source technology that allows anyone to create a static site. Therefore, the code is maintained by a community of developers and other contributors which consequently will make it performant and more secure.</description>
+Open-source: Hugo is an open-source technology that allows anyone to create a static website. Therefore, the code is maintained by a community of developers and other contributors which consequently makes it performant and more secure.</description>
     </item>
     
   </channel>

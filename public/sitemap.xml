@@ -3,72 +3,69 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.jonathangoc.com/</loc>
-    <lastmod>2022-10-02T17:34:00+00:00</lastmod>
+    <lastmod>2022-10-11T09:56:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.jonathangoc.com/tags/akamai/</loc>
-    <lastmod>2022-10-02T17:34:00+00:00</lastmod>
+    <loc>https://www.jonathangoc.com/articles/a-step-by-step-guide-to-deploying-a-hugo-website-on-linode/</loc>
+    <lastmod>2022-10-11T09:56:00+00:00</lastmod>
   </url><url>
     <loc>https://www.jonathangoc.com/articles/</loc>
-    <lastmod>2022-10-02T17:34:00+00:00</lastmod>
+    <lastmod>2022-10-11T09:56:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.jonathangoc.com/categories/buil-on-akamai/</loc>
-    <lastmod>2022-10-02T17:34:00+00:00</lastmod>
+    <loc>https://www.jonathangoc.com/categories/building-websites/</loc>
+    <lastmod>2022-10-11T09:56:00+00:00</lastmod>
   </url><url>
     <loc>https://www.jonathangoc.com/categories/</loc>
-    <lastmod>2022-10-02T17:34:00+00:00</lastmod>
+    <lastmod>2022-10-11T09:56:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.jonathangoc.com/tags/databases/</loc>
-    <lastmod>2022-10-02T17:34:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.jonathangoc.com/tags/dns/</loc>
-    <lastmod>2022-10-02T17:34:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.jonathangoc.com/tags/godaddy/</loc>
-    <lastmod>2022-10-02T17:34:00+00:00</lastmod>
+    <loc>https://www.jonathangoc.com/tags/hosting/</loc>
+    <lastmod>2022-10-11T09:56:00+00:00</lastmod>
   </url><url>
     <loc>https://www.jonathangoc.com/tags/hugo/</loc>
-    <lastmod>2022-10-02T17:34:00+00:00</lastmod>
+    <lastmod>2022-10-11T09:56:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.jonathangoc.com/articles/build-on-akamai-linode/</loc>
-    <lastmod>2022-10-02T17:34:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.jonathangoc.com/tags/netlify/</loc>
-    <lastmod>2022-10-02T17:34:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.jonathangoc.com/tags/networking/</loc>
-    <lastmod>2022-10-02T17:34:00+00:00</lastmod>
+    <loc>https://www.jonathangoc.com/tags/linode/</loc>
+    <lastmod>2022-10-11T09:56:00+00:00</lastmod>
   </url><url>
     <loc>https://www.jonathangoc.com/tags/open-source/</loc>
-    <lastmod>2022-10-02T17:34:00+00:00</lastmod>
+    <lastmod>2022-10-11T09:56:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.jonathangoc.com/tags/storage/</loc>
-    <lastmod>2022-10-02T17:34:00+00:00</lastmod>
+    <loc>https://www.jonathangoc.com/categories/open-source/</loc>
+    <lastmod>2022-10-11T09:56:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.jonathangoc.com/tags/static-page/</loc>
+    <lastmod>2022-10-11T09:56:00+00:00</lastmod>
   </url><url>
     <loc>https://www.jonathangoc.com/tags/</loc>
-    <lastmod>2022-10-02T17:34:00+00:00</lastmod>
+    <lastmod>2022-10-11T09:56:00+00:00</lastmod>
   </url><url>
     <loc>https://www.jonathangoc.com/tags/tech/</loc>
-    <lastmod>2022-10-02T17:34:00+00:00</lastmod>
+    <lastmod>2022-10-11T09:56:00+00:00</lastmod>
   </url><url>
     <loc>https://www.jonathangoc.com/categories/tech/</loc>
-    <lastmod>2022-10-02T17:34:00+00:00</lastmod>
+    <lastmod>2022-10-11T09:56:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.jonathangoc.com/tags/webpage/</loc>
-    <lastmod>2022-10-02T17:34:00+00:00</lastmod>
+    <loc>https://www.jonathangoc.com/tags/templates/</loc>
+    <lastmod>2022-10-11T09:56:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.jonathangoc.com/tags/themes/</loc>
+    <lastmod>2022-10-11T09:56:00+00:00</lastmod>
   </url><url>
     <loc>https://www.jonathangoc.com/tags/website/</loc>
-    <lastmod>2022-10-02T17:34:00+00:00</lastmod>
+    <lastmod>2022-10-11T09:56:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.jonathangoc.com/tags/wordpress/</loc>
-    <lastmod>2022-10-02T17:34:00+00:00</lastmod>
+    <loc>https://www.jonathangoc.com/articles/i-built-this-website-using-hugo/</loc>
+    <lastmod>2022-10-09T17:34:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.jonathangoc.com/tags/akamai/</loc>
+    <lastmod>2022-08-08T10:04:00+00:00</lastmod>
   </url><url>
     <loc>https://www.jonathangoc.com/tags/build-on-akamai/</loc>
     <lastmod>2022-08-08T10:04:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.jonathangoc.com/articles/i-built-this-website-using-hugo/</loc>
+    <loc>https://www.jonathangoc.com/categories/build-on-akamai/</loc>
     <lastmod>2022-08-08T10:04:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.jonathangoc.com/categories/building-websites/</loc>
+    <loc>https://www.jonathangoc.com/articles/build-on-akamai-linode/</loc>
     <lastmod>2022-08-08T10:04:00+00:00</lastmod>
   </url><url>
     <loc>https://www.jonathangoc.com/tags/cdn/</loc>
@@ -80,10 +77,22 @@
     <loc>https://www.jonathangoc.com/tags/compute/</loc>
     <lastmod>2022-08-08T10:04:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.jonathangoc.com/tags/linode/</loc>
+    <loc>https://www.jonathangoc.com/tags/databases/</loc>
     <lastmod>2022-08-08T10:04:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.jonathangoc.com/categories/open-source/</loc>
+    <loc>https://www.jonathangoc.com/tags/dns/</loc>
+    <lastmod>2022-08-08T10:04:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.jonathangoc.com/tags/godaddy/</loc>
+    <lastmod>2022-08-08T10:04:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.jonathangoc.com/tags/networking/</loc>
+    <lastmod>2022-08-08T10:04:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.jonathangoc.com/tags/storage/</loc>
+    <lastmod>2022-08-08T10:04:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.jonathangoc.com/tags/wordpress/</loc>
     <lastmod>2022-08-08T10:04:00+00:00</lastmod>
   </url><url>
     <loc>https://www.jonathangoc.com/tags/a2/</loc>
