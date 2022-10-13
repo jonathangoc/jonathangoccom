@@ -108,13 +108,23 @@ isHTML = true
 
 ```markdown
 +++
-title = "My Presentation"
+title = "My Akamai Presentation"
 outputs = ["Reveal"]
 +++
 
 # Hello world!
 
-This is my first slide.
+This is my first Hugo Website deployed on Linode - Akamai's Cloud Computing Platform
+
+---
+
+# Want to learn more?
+
+[Akamai Cloud Computing Platform](https://www.akamai.com/solutions/edge/cloud-computing-linode)
+
+---
+
+# Thank you!
 ```
 
 - Now, initialise Hugo server.
@@ -137,41 +147,31 @@ curl http://localhost:1313/
   <head>
 	<meta name="generator" content="Hugo 0.92.2" /><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     <meta charset="utf-8">
-<title>My Presentation</title>
+<title>My Akamai Presentation</title>
 
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <link rel="stylesheet" href="/reveal-js/css/reset.css">
-<link rel="stylesheet" href="/reveal-js/css/reveal.css"><link rel="stylesheet" href="/reveal-js/css/theme/moon.css" id="theme">
+<link rel="stylesheet" href="/reveal-js/css/reveal.css"><link rel="stylesheet" href="/reveal-js/css/theme/night.css" id="theme">
 <link rel="stylesheet" href="/highlight-js/default.min.css">
     
   </head>
   <body>
-    
+  
     <div class="reveal">
       <div class="slides">
-
+  
     <section><h1 id="hello-world">Hello world!</h1>
-<p>This is my first slide.</p>
+<p>This is my first Hugo Website deployed on Linode - Akamai&rsquo;s Cloud Computing Platform</p>
 </section><section>
-<h1 id="slide-2">Slide 2</h1>
-<p>Hello Slide Number 2.</p>
+<h1 id="want-to-learn-more">Want to learn more?</h1>
+<p><a href="https://www.akamai.com/solutions/edge/cloud-computing-linode">Akamai Cloud Computing Platform</a></p>
 </section><section>
-<h1 id="slide-3">Slide 3</h1>
-<p>Let&rsquo;s keep talking.</p>
-</section><section>
-<h1 id="slide-4">Slide 4</h1>
-<p>In fact, I don&rsquo;t know what I am doing.</p>
-</section><section>
-<h1 id="but-let-me-tech-you-something-">But Let me tech you something &hellip;</h1>
-<pre tabindex="0"><code class="nohighlight" data-noescape>graph LR
-    Edge Server --&gt; Parent Server
-    Parent Server --&gt; Origin
-</code></pre></section>
+<h1 id="thank-you">Thank you!</h1>
+</section>
 
 </div>
-
     </div>
 <script type="text/javascript" src=/reveal-hugo/object-assign.js></script>
 
@@ -185,14 +185,12 @@ curl http://localhost:1313/
   document.getElementsByTagName('head')[0].appendChild(link);
 </script>
 
-<script type="application/json" id="reveal-hugo-site-params">{"theme":"moon"}</script>
+<script type="application/json" id="reveal-hugo-site-params">{"theme":"night"}</script>
 <script type="application/json" id="reveal-hugo-page-params">null</script>
 
 <script src="/reveal-js/js/reveal.js"></script>
 
 <script type="text/javascript">
-  
-  
   function camelize(map) {
     if (map) {
       Object.keys(map).forEach(function(k) {
@@ -216,17 +214,12 @@ curl http://localhost:1313/
     camelize(revealHugoPageParams));
   Reveal.initialize(options);
 </script>
-  
-  <script type="text/javascript" src="/reveal-js/plugin/markdown/marked.js"></script>
-  
-  <script type="text/javascript" src="/reveal-js/plugin/markdown/markdown.js"></script>
-  
-  <script type="text/javascript" src="/reveal-js/plugin/highlight/highlight.js"></script>
-  
-  <script type="text/javascript" src="/reveal-js/plugin/zoom-js/zoom.js"></script>
-  
-  <script type="text/javascript" src="/reveal-js/plugin/notes/notes.js"></script>
 
+  <script type="text/javascript" src="/reveal-js/plugin/markdown/marked.js"></script>
+  <script type="text/javascript" src="/reveal-js/plugin/markdown/markdown.js"></script>
+  <script type="text/javascript" src="/reveal-js/plugin/highlight/highlight.js"></script>
+  <script type="text/javascript" src="/reveal-js/plugin/zoom-js/zoom.js"></script>
+  <script type="text/javascript" src="/reveal-js/plugin/notes/notes.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
   <script>
     mermaid.initialize({startOnLoad: false});
