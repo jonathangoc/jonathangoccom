@@ -1,6 +1,6 @@
 baseURL: "https://www.jonathangoc.com"
 languageCode: en-us
-theme: PaperMod
+theme: ["hugo-notice", "PaperMod"]
 title: " "
 
 enableRobotsTXT: true
@@ -49,12 +49,14 @@ params:
         #imageWidth: 150 # custom size
         #imageHeight: 150 # custom size
         buttons:
-            - name: Projects
-              url: "/projects/"
-            - name: Articles
-              url: "/articles/"
             - name: Resume
               url: "/resume/"
+            - name: Articles
+              url: "/articles/"
+            - name: EdgeTalks
+              url: "/edgetalks/"
+            - name: Projects
+              url: "/projects/"          
   ShowShareButtons: true #show share button of posts
   #ShareButtons: ["linkedin", "twitter", "reddit", "facebook"]
   #ShowReadingTime: true #Displays Reading Time (the estimated time, in minutes, it takes to read the content.)
