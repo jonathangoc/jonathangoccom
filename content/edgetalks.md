@@ -15,6 +15,18 @@ We are looking for incredible speakers with brilliant topics. If you know someon
 ------------------------------------------------------------------------------------------------------------------------------
 
 
+## Akamai EdgeTalks #4: Norberto Amaral (Managing Partner at CULTIV)
+Have you ever wonder how to communicate virtually and effectively to your colleagues or even to a wider audience?
+
+The Coronavirus pandemic brought short-term disruptions and provoked long-term changes in how the people work and live. The majority of us began working from home and many are still working remotely today. This means that most of the interactions are still happening virtually.
+
+In this session, communication expert Norberto Amaral shares useful tips on how to improve your communication etiquette online.
+
+{{< youtube PQHuUpnOpxU >}}
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
 ## Akamai EdgeTalks #3: Sven Al Hamad (CEO and Founder of Webiny)
 In this talk, Sven shares his journey in building Webiny (a serverless CMS cloud platform), the lessons learnt from getting VC investment, the Y Combinator Accelerator Program, hiring smart people and building the culture of the company.
 
