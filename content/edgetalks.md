@@ -29,7 +29,7 @@ Women's Health in the Workplace - What's Next?
 
 Marija Butkovic, the founder and CEO of Women of Wearables and a Forbes contributor will be exploring the global femtech movement and its impact on the development of healthcare products that utilize technology to solve real problems faced by women. 
 
-Despite significant advancements in healthcare in recent years, progress in women's health has not kept pace. Fortunately, a growing number of startups and entrepreneurs are entering the femtech market and focusing on improving women's health through the creation of apps and wearables
+Despite significant advancements in healthcare in recent years, progress in women's health has not kept pace. Fortunately, a growing number of startups and entrepreneurs are entering the femtech market and focusing on improving women's health through the creation of apps and wearables.
 
 {{< youtube 3w7P0MCOajA >}}
 
