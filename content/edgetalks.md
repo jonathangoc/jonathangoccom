@@ -35,9 +35,6 @@ Despite significant advancements in healthcare in recent years, progress in wome
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-------------------------------------------------------------------------------------------------------------------------------
-
-
 ## Akamai EdgeTalks #4: Norberto Amaral (Managing Partner at CULTIV)
 Have you ever wonder how to communicate virtually and effectively to your colleagues or even to a wider audience?
 
