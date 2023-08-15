@@ -28,9 +28,15 @@
         {{- end }}
         {{- end }}
         <h1>{{ .title | default site.Title | markdownify }}<br></h1>
-        <span>{{ .subtitle | markdownify }}<br><br></span>
+        <span>{{ .subtitle | markdownify }}<br><br></span>    
 
-        {{- partial "social_icons.html" site.Params.socialIcons -}}<br>
+        {{- partial "social_icons.html" site.Params.socialIcons -}}
+        <br>
+        <hr>
+        <br>
+        <img src="/img/akamaipurpose.png" width="100" height="100" alt="Akamai Living the Purpose Award">
+        <img src="/img/growambassador.jpg" width="100" height="100" alt="Akamai Grow Ambassador">
+        <img src="/img/aws-certified-cloud-practitioner.png" width="100" height="100" alt="AWS Certified Cloud Practitioner">   
 
         {{- with .buttons }}
         <div class="buttons">

@@ -17,18 +17,38 @@ googleAnalytics: G-FGMRDHDQZJ
 #menu
 menu:
   main:
+    - identifier: resume
+      name: Resume
+      url: "/resume/"
+      weight: 10
+    - identifier: articles
+      name: Articles
+      url: "/articles/"
+      weight: 20
+    - identifier: edgetalks
+      name: EdgeTalks
+      url: "/edgetalks/"
+      weight: 30
+    - identifier: edgetalks
+      name: EdgeTalks
+      url: "/edgetalks/"
+      weight: 30
     - identifier: meetme
       name: Meet Me
       url: /meetme/
-      weight: 10
+      weight: 40
     - identifier: search
       name: Search
       url: /search/
-      weight: 30
-    - identifier: blog archive
-      name: Archive
-      url: /archive/
-      weight: 20
+      weight: 50
+    #- identifier: blog archive
+     # name: Archive
+     # url: /archive/
+      #weight: 60
+    #- identifier: projects
+     # name: Projects
+     # url: /projects/
+     # weight: 70
 
 #site parameters
 params:
@@ -48,15 +68,15 @@ params:
         #imageTitle: "<title of image as alt>" # optional
         #imageWidth: 150 # custom size
         #imageHeight: 150 # custom size
-        buttons:
-            - name: Resume
-              url: "/resume/"
-            - name: Articles
-              url: "/articles/"
-            - name: EdgeTalks
-              url: "/edgetalks/"
-            - name: Projects
-              url: "/projects/"          
+        #buttons:
+          #  - name: Resume
+          #    url: "/resume/"
+          #  - name: Articles
+           #   url: "/articles/"
+          #  - name: EdgeTalks
+          #    url: "/edgetalks/"
+          # - name: Projects
+           #   url: "/projects/"          
   ShowShareButtons: true #show share button of posts
   #ShareButtons: ["linkedin", "twitter", "reddit", "facebook"]
   #ShowReadingTime: true #Displays Reading Time (the estimated time, in minutes, it takes to read the content.)
